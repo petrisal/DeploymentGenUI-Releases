@@ -1,15 +1,15 @@
 {
-  "version": "2025.11.19.2",
-  "tag": "v2025.11.19.2",
-  "releaseDate": "2025-11-19",
-  "releaseNotesUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/tag/v2025.11.19.2",
+  "version": "2025.11.20",
+  "tag": "v2025.11.20",
+  "releaseDate": "2025-11-20",
+  "releaseNotesUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/tag/v2025.11.20",
   "platforms": {
     "windows": {
-      "downloadUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/download/v2025.11.19.2/DeploymentGenUI.exe",
+      "downloadUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/download/v2025.11.20/DeploymentGenUI.exe",
       "filename": "DeploymentGenUI.exe"
     },
     "macos": {
-      "downloadUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/download/v2025.11.19.2/DeploymentGenUI-macOS.zip",
+      "downloadUrl": "https://github.com/petrisal/DeploymentGenUI-Releases/releases/download/v2025.11.20/DeploymentGenUI-macOS.zip",
       "filename": "DeploymentGenUI-macOS.zip"
     }
   }
